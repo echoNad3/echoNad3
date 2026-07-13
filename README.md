@@ -1,4 +1,4 @@
-## I make stuff I want to use
+### I make stuff I want to use
 
 Most of what I build starts the same way: I need a tool, I look for one, and everything I find is either full of ads, locked behind a subscription, collecting more data than it needs, or bloated with features nobody asked for.
 
@@ -8,7 +8,7 @@ That has turned into fitness apps, VS Code extensions, YouTube summarizers, smal
 
 ---
 
-## Why
+### Why
 
 I’m tired of simple software being turned into a service.
 
@@ -20,7 +20,7 @@ I don’t want any of that in the things I use.
 
 ---
 
-## What I aim for
+### What I aim for
 
 * useful
 * simple
