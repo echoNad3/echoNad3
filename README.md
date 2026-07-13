@@ -1,6 +1,4 @@
-## Welcome to the GitHub page of echoNad3
-
-<br>
+# Welcome to the GitHub page of echoNad3
 
 ### 🛠️ I make stuff I want to use
 
