@@ -1,5 +1,7 @@
 # Welcome to the GitHub page of echoNad3
 
+<br>
+
 ### 🛠️ I make stuff I want to use
 
 Most of what I build starts the same way: **I need a tool, I look for one**, and everything I find is either full of ads, locked behind a subscription, collecting more data than it needs, or bloated with features nobody asked for.
@@ -8,7 +10,7 @@ Most of what I build starts the same way: **I need a tool, I look for one**, and
 
 That has turned into fitness apps, VS Code extensions, YouTube summarizers, small utilities, automation tools, and a few video game projects.
 
-<br><br>
+<br>
 
 ### 💭 Why
 
@@ -20,7 +22,7 @@ A lot of good software also gets worse over time because the company behind it n
 
 **I don’t want any of that in the things I use.**
 
-<br><br>
+<br>
 
 ### 🎯 What I aim for
 
