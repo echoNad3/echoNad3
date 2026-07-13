@@ -32,6 +32,6 @@ A lot of good software also gets worse over time because the company behind it n
 
 Some projects are public. Some are unfinished. A lot of them are just things I built because I wanted them to exist.
 
-<br>
+<br><br>
 
 **That’s pretty much it.**
